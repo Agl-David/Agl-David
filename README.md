@@ -11,7 +11,7 @@
 
 💻 **Frontend Developer en formación** | Ingeniero Petrolero especializado en Instalaciones de Gas.
 
-📍 Residencia: Bolivia | Apasionado por la tecnología y la automatización.
+📍 Residencia: Bolivia - Cochabamba [Cercado] | Apasionado por la tecnología y la automatización.
 
 ---
 
