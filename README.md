@@ -1,16 +1,34 @@
-## Hi there 👋
+ # <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4yNHFrYWY3ZXRkMm00cG1hOW1ueXpkZ3RxcjN6NWNraXRpNGF6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif' width='80'> Bienvenidos al Github de Agl.David 
 
-<!--
-**Agl-David/Agl-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/david.aguilar.loza/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidaguilarloza/)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-aguilar-b0a436202/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@ag.david)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/59171433512)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag.david086@gmail.com?subject=Hola%20David&body=Te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
 
-Here are some ideas to get you started:
+# 👋 Hola, soy David Aguilar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Frontend Developer en formación** | Ingeniero Petrolero especializado en Instalaciones de Gas.
+
+📍 Residencia en Bolivia | Apasionado por la tecnología y la automatización
+
+---
+
+## 🔹 Sobre mí
+- Apasionado por **programación y desarrollo web**, con enfoque en proyectos prácticos y escalables.  
+- Interesado en **optimizar flujos de trabajo y automatización de proyectos**.
+
+## 🔹 Lo que busco
+- Crear proyectos reales que **aprendan y crezcan conmigo**.  
+- Colaborar en **equipos multidisciplinarios** y aportar soluciones efectivas.
+
+Reorder Sections
+Preview
+Markdown
+Copy
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
+</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
