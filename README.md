@@ -9,7 +9,7 @@
 
 # 👋 Hola, soy David Aguilar
 
-💻 **Frontend Developer en formación** | Ingeniero Petrolero especializado en Instalaciones de Gas.
+💻 **Frontend Developer* | Ingeniero Petrolero especializado en Instalaciones de Gas.
 
 📍 Residencia: Bolivia - Cochabamba [Cercado] | Apasionado por la tecnología y la automatización.
 
