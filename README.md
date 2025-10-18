@@ -1,10 +1,7 @@
  # <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4yNHFrYWY3ZXRkMm00cG1hOW1ueXpkZ3RxcjN6NWNraXRpNGF6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif' width='80'> Bienvenidos al Github de Agl.David 
 
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/david.aguilar.loza/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidaguilarloza/)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-aguilar-b0a436202/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@ag.david)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/59171433512)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidaguilarloza/)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/59171433512)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag.david086@gmail.com?subject=Hola%20David&body=Te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
 
 # 👋 Hola, Mi nombre es David Aguilar
