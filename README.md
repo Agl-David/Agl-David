@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag.david086@gmail.com?subject=Hola%20David&body=Te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
 
 
-# 👋 Hola, Mi nombre es David Aguilar
+# 👋 Hola, Mi nombre es David 
 
 💻 *Frontend Developer e Ingeniero Petrolero*
 
